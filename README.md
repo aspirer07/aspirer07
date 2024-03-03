@@ -1,9 +1,9 @@
-[![MasterHead](https://www.neomind.com.br/wp-content/uploads/2017/11/Vantagens-e-caracter%C3%ADsticas-Big-Data.jpg)](https://aspirer07.io)
+[![MasterHead](https://www.valuemomentum.com/wp-content/uploads/2023/12/Whitepaper-Driving_Business_Value_with_Insurance_Data_Analytics-scaled.jpg)]
 <h1 align="center">Hello, I'm Anuj</h1>
 <h3 align="center">I am a dedicated data analyst with a fervent enthusiasm for extracting insights from complex datasets.</h3>
 <img align="right" alt="Coding" width="400" src="https://awzpact.com/uploads/editor/Design%20%26%20UI%20Consultancy.gif">
 - 📫 How to reach me <b>anujsarsolkar15@gmail.com</b><br>
-- 👨‍💻 My recent <a href = "https://github.com/aspirer07/Diwali-Sales-Analysis">Project</a>
+- 👨‍💻 My recent <a href = "https://github.com/aspirer07/Diwali-Sales-Analysis">Project</a><br>
 - 💬 Ask me about <b>Data Cleaning and Visualization</b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
