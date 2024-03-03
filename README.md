@@ -1,9 +1,6 @@
 <h1 align="center">Hello, I'm Anuj</h1>
 <h3 align="center">I am a dedicated data analyst with a fervent enthusiasm for extracting insights from complex datasets.</h3>
 <img align="right" alt="Coding" width="400" src="https://awzpact.com/uploads/editor/Design%20%26%20UI%20Consultancy.gif">
-
-- 🌱 I’m currently learning **Selenium, Seaborn,**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anuj sarsolkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj sarsolkar" height="30" width="40" /></a>
