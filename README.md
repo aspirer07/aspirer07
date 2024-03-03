@@ -1,3 +1,4 @@
+[![MasterHead](https://www.neomind.com.br/wp-content/uploads/2017/11/Vantagens-e-caracter%C3%ADsticas-Big-Data.jpg)](https://aspirer07.io)
 <h1 align="center">Hello, I'm Anuj</h1>
 <h3 align="center">I am a dedicated data analyst with a fervent enthusiasm for extracting insights from complex datasets.</h3>
 <img align="right" alt="Coding" width="400" src="https://awzpact.com/uploads/editor/Design%20%26%20UI%20Consultancy.gif">
